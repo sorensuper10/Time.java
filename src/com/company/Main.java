@@ -3,6 +3,8 @@ package com.company;
 public class Main {
 
     public static void main(String[] args) {
+        System.out.println("Hello World");
+
         int hour = 18;
         int minute = 0;
         System.out.print("Number of seconds since midnight: ");
